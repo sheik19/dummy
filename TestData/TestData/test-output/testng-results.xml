@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="14" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T12:36:50 IST" name="Suite" finished-at="2024-02-05T12:37:27 IST" duration-ms="37194">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T12:36:50 IST" name="Test" finished-at="2024-02-05T12:37:27 IST" duration-ms="37194">
+      <class name="CID_Common_Function.CID_Baseclass">
+        <test-method is-config="true" signature="setUpSuite(java.lang.String)[pri:0, instance:CID_Common_Function.CID_Baseclass@53941c2f]" started-at="2024-02-05T12:36:50 IST" name="setUpSuite" finished-at="2024-02-05T12:36:50 IST" duration-ms="460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CID_SIT_env]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:CID_Common_Function.CID_Baseclass@53941c2f]" started-at="2024-02-05T12:37:28 IST" name="afterSuite" finished-at="2024-02-05T12:37:28 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- CID_Common_Function.CID_Baseclass -->
+      <class name="CID_Common_Function.CID_Runner">
+        <test-method is-config="true" signature="get_data()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:50 IST" name="get_data" finished-at="2024-02-05T12:36:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+        <test-method signature="Existing_customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:50 IST" name="Existing_customer" data-provider="Existing_customer" finished-at="2024-02-05T12:36:55 IST" duration-ms="4165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Existing_customer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Request]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[loginId]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Existing user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Existing_customer -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:55 IST" name="setUp" finished-at="2024-02-05T12:36:55 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="get_data()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:55 IST" name="get_data" finished-at="2024-02-05T12:36:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+        <test-method signature="Existing_customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:55 IST" name="Existing_customer" data-provider="Existing_customer" finished-at="2024-02-05T12:36:55 IST" duration-ms="796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User_Dashboard]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Request]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SUCCESS]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[cid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Existing_customer -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:55 IST" name="setUp" finished-at="2024-02-05T12:36:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="get_data()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:55 IST" name="get_data" finished-at="2024-02-05T12:36:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+        <test-method signature="Existing_customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:55 IST" name="Existing_customer" data-provider="Existing_customer" finished-at="2024-02-05T12:36:58 IST" duration-ms="2194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[view_PDF]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Request]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pdfPath]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[pdfPath]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Existing_customer -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:58 IST" name="setUp" finished-at="2024-02-05T12:36:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="get_data()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:58 IST" name="get_data" finished-at="2024-02-05T12:36:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+        <test-method signature="Existing_customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:58 IST" name="Existing_customer" data-provider="Existing_customer" finished-at="2024-02-05T12:36:59 IST" duration-ms="858" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[purchase_ScoreReport]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Request]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[orderNumber]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[cid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Existing_customer -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:59 IST" name="setUp" finished-at="2024-02-05T12:36:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="get_data()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:59 IST" name="get_data" finished-at="2024-02-05T12:36:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+        <test-method signature="Existing_customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:59 IST" name="Existing_customer" data-provider="Existing_customer" finished-at="2024-02-05T12:36:59 IST" duration-ms="764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[payment_confirmation]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Request]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SUCCESS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[cid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Existing_customer -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:59 IST" name="setUp" finished-at="2024-02-05T12:36:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="get_data()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:59 IST" name="get_data" finished-at="2024-02-05T12:36:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+        <test-method signature="Existing_customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:36:59 IST" name="Existing_customer" data-provider="Existing_customer" finished-at="2024-02-05T12:37:10 IST" duration-ms="10826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Existing_customer_Revisit_User_Dashboard]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Request]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SUCCESS]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[cid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Existing_customer -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:37:10 IST" name="setUp" finished-at="2024-02-05T12:37:10 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="get_data()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:37:10 IST" name="get_data" finished-at="2024-02-05T12:37:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+        <test-method signature="Existing_customer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:37:10 IST" name="Existing_customer" data-provider="Existing_customer" finished-at="2024-02-05T12:37:27 IST" duration-ms="17287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Existing_customer_Revisit_view_PDF]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Request]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pdfPath]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[pdfPath]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Existing_customer -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:CID_Common_Function.CID_Runner@73194df]" started-at="2024-02-05T12:37:27 IST" name="setUp" finished-at="2024-02-05T12:37:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- CID_Common_Function.CID_Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
